@@ -13,7 +13,7 @@ AOS.init({
   anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
 });
-var sentences = ["Data Analyst", "Front-End Developer", "Digital Marketer"];
+var sentences = ["An Aspiring IT Support", "A Guru Diniyah Asrama at BP IBS", "A Web Developer"];
 var currentSentence = 0;
 var currentSentenceChar = 0;
 var intervalValue;

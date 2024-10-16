@@ -38,6 +38,7 @@ img {
 
 .text-brand {
     color: var(--color-brand);
+    font-weight: 550;
 }
 
 .bg-base {
